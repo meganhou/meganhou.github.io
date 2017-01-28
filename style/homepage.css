@@ -1,2 +1,13 @@
-.contact-link {
-	font-size: 16px;
+
+body {
+	background-color: rgb(240, 240, 240);
+	}
+	#about-info {
+		font-size: 20px;
+	}
+	.contact-link {
+		font-size: 20px;
+	}
+	.about-link {
+		font-size: 20px
+	}
