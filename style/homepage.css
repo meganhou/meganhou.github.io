@@ -5,9 +5,35 @@ body {
 	#about-info {
 		font-size: 20px;
 	}
+	.about-link {
+		font-size: 20px;
+	}
+	.photos-link {
+		font-size: 20px;
+	}
 	.contact-link {
 		font-size: 20px;
 	}
-	.about-link {
-		font-size: 20px
+	#senior-pic {
+		width: 300px;
+		border: 25px solid black;
+		padding: 25px;
+		margin: 25px;
 	}
+div.img {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 180px;
+}
+div.img:hover {
+    border: 1px solid #777;
+}
+div.img img {
+    width: 100%;
+    height: auto;
+}
+div.desc {
+    padding: 15px;
+  	text-align: center;
+}
