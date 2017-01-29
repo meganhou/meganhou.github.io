@@ -2,19 +2,29 @@
 body {
 	background-color: rgb(240, 240, 240);
 	}
-	#about-info {
+	html {
+		background-image: url("ShanghaiBund.JPG");
+		background-repeat: no-repeat;
+		background-position: fixed;
+		background-size: cover;
+		opacity: 0.5;
+	}
+#about-info {
 		font-size: 20px;
 	}
-	.about-link {
+.about-link {
 		font-size: 20px;
 	}
-	.photos-link {
+.gymnastics-link {
 		font-size: 20px;
 	}
-	.contact-link {
+.photos-link {
 		font-size: 20px;
 	}
-	#senior-pic {
+.contact-link {
+		font-size: 20px;
+	}
+#senior-pic {
 		width: 300px;
 		border: 25px solid black;
 		padding: 25px;
