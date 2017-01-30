@@ -1,17 +1,23 @@
 
 body {
-	background-color: rgb(240, 240, 240);
+	background-color: rgba(240, 240, 240, 0.5);
+	background-image: url(GoldenGateBridge.jpg) no-repeat center fixed;
+	background-size: cover;
 	}
-	html {
-		background-image: url("ShanghaiBund.JPG");
-		background-repeat: no-repeat;
-		background-position: fixed;
-		background-size: cover;
-		opacity: 0.5;
-	}
-#about-info {
+#homepage-info {
 		font-size: 20px;
 	}
+/*
+div.transparent-box {
+	margin: 10px;
+	background-color: rgb(240, 240, 240);
+	border: 1px solid black;
+	opacity: .7;
+}
+div.transparent-box p {
+	margin: 10px;
+	color: black;
+} */
 .about-link {
 		font-size: 20px;
 	}
