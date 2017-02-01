@@ -5,8 +5,8 @@ body {
 	background-size: cover;
 	}
 #homepage-info {
-		font-size: 20px;
-	}
+	font-size: 20px;
+}
 /*
 div.transparent-box {
 	margin: 10px;
@@ -19,37 +19,40 @@ div.transparent-box p {
 	color: black;
 } */
 .about-link {
-		font-size: 20px;
-	}
+	font-size: 20px;
+}
 .gymnastics-link {
-		font-size: 20px;
-	}
+	font-size: 20px;
+}
 .photos-link {
-		font-size: 20px;
-	}
+	font-size: 20px;
+}
 .contact-link {
-		font-size: 20px;
-	}
+	font-size: 20px;
+}
 #senior-pic {
-		width: 300px;
-		border: 25px solid black;
-		padding: 25px;
-		margin: 25px;
-	}
+	width: 300px;
+	border: 25px solid black;
+	padding: 25px;
+	margin: 25px;
+}
 div.img {
-    margin: 5px;
-    border: 1px solid #ccc;
-    float: left;
-    width: 180px;
+ 	margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 180px;
 }
 div.img:hover {
-    border: 1px solid #777;
+	border: 1px solid #777;
 }
 div.img img {
-    width: 100%;
-    height: auto;
+  width: 100%;
+  height: auto;
 }
 div.desc {
-    padding: 15px;
-  	text-align: center;
+ padding: 15px;
+ text-align: center;
+}
+#Venice {
+	-transform-style: rotate(90deg);
 }
