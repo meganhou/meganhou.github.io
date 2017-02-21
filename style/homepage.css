@@ -37,6 +37,9 @@ div.transparent-box p {
 	margin: 25px;
 }
 /* travel photos styling */
+#Venice {
+	-transform-style: rotate(90deg);
+}
 div.img {
  	margin: 5px;
   border: 1px solid #ccc;
